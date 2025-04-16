@@ -1,5 +1,5 @@
 # p4-machinelearning
----------------------
+
 ## Overview
 This C++ program uses natural language processing (NLP) and machine learning techniques to automatically identify the subject of EECS 280 Piazza posts. It predicts the topic (e.g., exam, euchre, recursion) of a given post by analyzing the words it contains and comparing them to a trained dataset.
 
